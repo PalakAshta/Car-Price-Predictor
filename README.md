@@ -6,7 +6,7 @@ ML based Website that predicts price of the car by entering its specifications
 
 https://github.com/PalakAshta/Car-Price-Predictor/assets/87114729/7508e04c-7a7c-475a-8ef6-308a4e46e66a
 
-
+##Extended this model to a fully fledged Website In which user can Sell their car by uploading the information and the interested buyer can get the information of the seller from the Car-Galley section.
 User Interface
 ![image](https://github.com/PalakAshta/Car-Price-Predictor/assets/87114729/ab77a0ed-64d1-46dd-b09b-0d2c8bd53977)
 
